@@ -1,38 +1,86 @@
-.App {
+button{
+  font-family: 'Karla', sans-serif;
+}
+header{
+  height: 288px;
+  background-image: url(./img/main_img.png);
+}
+.menu_box{
+  height: 80px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.menu_box button{
+  height: 80px;
+  font-size: 13px;
+  padding: 0 10px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.drop_menu{
+  height: 30px;
+  padding: 25px 0;
+  background-color: #767676;
+  display: none;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.drop_menu button{
+  color: #fff;
+  width: 100%;
+}
+.view_drop{
+  display: block;
+}
+.discography{
+  font-weight: bold;
+}
+.contents_box{
+  width: 960px;
+  margin: 100px auto;
+}
+.info_box{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.jacket_photo{
+  width: 440px;
+  height: 440px;
+  background-image: url(./img/jacket.png);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.album_info{
+  width: 500px;
+  height: 440px;
+  text-align: center;
+  padding-top: 180px;
+}
+.album_name{
+  font-size: 30px;
+  font-weight: bold;
+}
+.released{
+  font-weight: bold;
+}
+.track_list{
+  padding-left: 0;
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+.track_list li{
+  font-family: 'NanumSquare', sans-serif;
+  padding: 17px 0 17px 10px;
+  border-top: 1px solid rgb(196, 196, 196);
+}
+.track_list li:last-child{
+  border-bottom: 1px solid rgb(196, 196, 196);;
+}
+.information{
+  width: 800px;
+  margin: 0 auto;
+  font-size: 14px;
+  color: #4d4d4d;
+}
+.information p{
+  padding: 10px 0;
+  line-height: 22px;
+}
+footer{
+  text-align: center;
+  font-size: 14px;
+  height: 100px;
 }
