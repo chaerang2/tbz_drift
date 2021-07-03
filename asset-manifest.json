@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tbz_drift/static/css/main.e8172812.chunk.css",
+    "main.js": "/tbz_drift/static/js/main.ebc25f7e.chunk.js",
+    "main.js.map": "/tbz_drift/static/js/main.ebc25f7e.chunk.js.map",
+    "runtime-main.js": "/tbz_drift/static/js/runtime-main.b5fb6816.js",
+    "runtime-main.js.map": "/tbz_drift/static/js/runtime-main.b5fb6816.js.map",
+    "static/js/2.5a3b456f.chunk.js": "/tbz_drift/static/js/2.5a3b456f.chunk.js",
+    "static/js/2.5a3b456f.chunk.js.map": "/tbz_drift/static/js/2.5a3b456f.chunk.js.map",
+    "static/js/3.e9265022.chunk.js": "/tbz_drift/static/js/3.e9265022.chunk.js",
+    "static/js/3.e9265022.chunk.js.map": "/tbz_drift/static/js/3.e9265022.chunk.js.map",
+    "index.html": "/tbz_drift/index.html",
+    "static/css/main.e8172812.chunk.css.map": "/tbz_drift/static/css/main.e8172812.chunk.css.map",
+    "static/js/2.5a3b456f.chunk.js.LICENSE.txt": "/tbz_drift/static/js/2.5a3b456f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tbz_drift/static/media/main_img.17cce352.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5fb6816.js",
+    "static/js/2.5a3b456f.chunk.js",
+    "static/css/main.e8172812.chunk.css",
+    "static/js/main.ebc25f7e.chunk.js"
+  ]
+}
